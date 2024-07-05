@@ -1,0 +1,20 @@
+.about-page {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(../assets/about.jpg);
+  height: 80vh;
+  background-size: cover;
+  background-position: center;
+}
+
+.about-page img {
+  height: 400px;
+  width: 600px;
+}
+
+.about-text {
+  margin-top: 500px;
+}
+
+.image-ga {
+  margin-top: 1300px;
+}

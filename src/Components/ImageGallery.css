@@ -1,0 +1,9 @@
+.gallery img{
+    height: 300px;
+    width: 400px;
+
+}
+
+.gallery img:hover{
+    transform: scale(.99);    
+}

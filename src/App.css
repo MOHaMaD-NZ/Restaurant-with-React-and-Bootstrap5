@@ -1,0 +1,13 @@
+@font-face {
+  font-family: iran;
+  src: url(./font/iran.ttf);
+}
+
+body{
+  font-family: iran;
+  margin: 0;
+}
+
+footer p{
+  
+}

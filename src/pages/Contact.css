@@ -1,0 +1,11 @@
+.contact-page {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(../assets/contact.jpg);
+  height: 80vh;
+  background-size: cover;
+  background-position: center;
+}
+
+.contact {
+  margin-top: 500px;
+}
